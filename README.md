@@ -1,6 +1,7 @@
+
+# ![sibylassana95](https://github.com/sibylassana95/sibylassana95/blob/main/baniere.png)
 <h1 align="center">Salut 👋, je suis Lassana siby</h1>
 <h3 align="center">Un développeur passionné du Sénégal</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibylassana95&label=Profile%20views&color=0e75b6&style=flat" alt="sibylassana95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibylassana95" alt="sibylassana95" /></a > </p>
@@ -36,4 +37,3 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=sibylassana95&color=brightgreen)
   ![Gmail Badge](https://img.shields.io/badge/-sibylassana95-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sibyamara95@.@gmail.com)
  ![Linkedin Badge](https://img.shields.io/badge/-sibylassana95-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lassana-siby-1b4314183/)
-
