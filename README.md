@@ -40,3 +40,4 @@
   ![Gmail Badge](https://img.shields.io/badge/-sibylassana95-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sibyamara95@.@gmail.com)
  ![Linkedin Badge](https://img.shields.io/badge/-sibylassana95-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lassana-siby-1b4314183/)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sibylassana95)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
