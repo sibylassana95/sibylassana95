@@ -2,9 +2,11 @@
 # ![sibylassana95](https://github.com/sibylassana95/sibylassana95/blob/main/baniere.png)
 <h1 align="center">Salut 👋, je suis Lassana siby</h1>
 <h3 align="center">Un développeur passionné du Sénégal</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibylassana95&label=Profile%20views&color=0e75b6&style=flat" alt="sibylassana95" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibylassana95" alt="sibylassana95" /></a > </p>
 
 <p align="left"> <a href="https://twitter.com/sibyog13" target="blank"><img src="https://img.shields.io/twitter/follow/sibyog13?logo=twitter&style=for-the-badge" alt="sibyog13" /></a> </p>
 
