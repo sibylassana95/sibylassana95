@@ -3,7 +3,7 @@
 <h1 align="center">Salut 👋, je suis Lassana siby</h1>
 <h3 align="center">Un développeur passionné du Sénégal</h3>
 
- 🖥️  See my portfolio at [My portfolio](http://portfoliosiby.vercel.app/) ✉ 
+ 🖥️  See my portfolio at [My portfolio](https://sibylassana.com/) ✉ 
  You can contact me at [sibyamara95@gmail.com](mailto:sibyamara95@gmail.com) 
   🤝  I'm open to collaborating 
 
