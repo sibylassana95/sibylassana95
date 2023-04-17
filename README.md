@@ -3,6 +3,10 @@
 <h1 align="center">Salut 👋, je suis Lassana siby</h1>
 <h3 align="center">Un développeur passionné du Sénégal</h3>
 
+
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/sibyamara9M)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sibylassana) 
+  
  🖥️  See my portfolio at [My portfolio](https://sibylassana.com/) ✉ 
  You can contact me at [sibyamara95@gmail.com](mailto:sibyamara95@gmail.com) 
   🤝  I'm open to collaborating 
