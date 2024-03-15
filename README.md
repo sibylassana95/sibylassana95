@@ -41,6 +41,14 @@
     <img src="https://skillicons.dev/icons?i=django,py,ts,js,md,css,tailwind,vercel,figma,angular,bootstrap,discord,git,github,gitlab,gmail,html,java,ubuntu,spring," alt="Technologies">
   </a>
 </p>
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+
 <!-- Top repository -->
 <h1 align="center"> Top Open Source</h1>
 
