@@ -48,13 +48,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<!-- Top repository -->
-<h1 align="center"> Top Open Source</h1>
 
-[![GalsenAPi](https://github-readme-stats.vercel.app/api/pin/?username=sibylassana95&repo=GalsenAPi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sibylassana95/GalsenAPi)
-[![Fran-ais-Soninke](https://github-readme-stats.vercel.app/api/pin/?username=sibylassana95&repo=Fran-ais-Soninke&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sibylassana95/Fran-ais-Soninke)
-[![AllCountries](https://github-readme-stats.vercel.app/api/pin/?username=sibylassana95&repo=AllCountries&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sibylassana95/AllCountries)
-[![ALLvillageSenegal](https://github-readme-stats.vercel.app/api/pin/?username=sibylassana95&repo=ALLvillageSenegal&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sibylassana95/ALLvillageSenegal)
 
 <!-- Social Media -->
 <h1 align="center"> Socials</h1>
