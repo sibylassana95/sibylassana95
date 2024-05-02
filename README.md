@@ -60,10 +60,10 @@
 
 <h1 align="center"> Quelques projets</h1>
 
-| GalsenAPI                                                             | Mon blog                                                                                                          | Francais-Soninke
-| --------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ------------------------------------------------------
-| ✅ [Visiter](https://galsenapi.pythonanywhere.com)                    | ✅ [Visiter](https://lassblog.pythonanywhere.com/)                                                                 | [Visiter](https://parlersoninke.pythonanywhere.com/)
-| <img src="https://sibylassana.vercel.app/img/GalsenAI.png" alt="GalsenAPI image" width="500"/> | <img src="https://sibylassana.vercel.app/img/monblog.jpg" alt="Mon blog" width="500"/> | <img src="https://sibylassana.vercel.app/img/fran%C3%A7aissoninke.jpg" alt="Francais-Soninke image" width="500"/>
+| GalsenAPI                                                             | Mon blog                                                                                                          | Francais-Soninke | DevToolsConnect
+| --------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ------------------------------------------------------| ------------------------------------------------------
+| ✅ [Visiter](https://galsenapi.pythonanywhere.com)                    | ✅ [Visiter](https://lassblog.pythonanywhere.com/)                                                                 | [Visiter](https://parlersoninke.pythonanywhere.com/)| [Visiter](https://devtoolsconnect.vercel.app/)
+| <img src="https://sibylassana.vercel.app/img/GalsenAI.png" alt="GalsenAPI image" width="500"/> | <img src="https://sibylassana.vercel.app/img/monblog.jpg" alt="Mon blog" width="500"/> | <img src="https://sibylassana.vercel.app/img/fran%C3%A7aissoninke.jpg" alt="Devtoolsconnect" width="500"/>| <img src="https://devtoolsconnect.vercel.app/assets/logo2.png" width="500"/>
 
 
 <!-- GitHub Stats -->
