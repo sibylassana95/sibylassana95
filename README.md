@@ -19,7 +19,6 @@
 
 <!-- Portfolio and Contact -->
 <p align="center">
-  🖥️ See my portfolio at <a href="https://sibylassana.com/">My portfolio</a> ✉️<br>
   You can contact me at <a href="mailto:sibyamara95@gmail.com">sibyamara95@gmail.com</a><br>
   🤝 I'm open to collaborating
 </p>
