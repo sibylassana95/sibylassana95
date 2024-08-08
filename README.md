@@ -7,15 +7,7 @@
 <h1 align="center">Salut 👋, je suis Lassana Siby</h1>
 <h3 align="center">Un développeur passionné du Sénégal</h3>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sibyamara9M">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-  </a>
-  <a href="https://paypal.me/sibylassana">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-  </a>
-</p>
+
 
 <!-- Portfolio and Contact -->
 <p align="center">
