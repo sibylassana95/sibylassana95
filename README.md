@@ -53,7 +53,7 @@
 
 | GalsenAPI                                                             | Mon blog                                                                                                          | Francais-Soninke | DevToolsConnect
 | --------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ------------------------------------------------------| ------------------------------------------------------
-| ✅ [Visiter](https://galsenapi.pythonanywhere.com)                    | ✅ [Visiter](https://lassblog.pythonanywhere.com/)                                                                 | [Visiter](https://parlersoninke.pythonanywhere.com/)| [Visiter](https://devtoolsconnect.vercel.app/)
+| ✅ [Visiter](https://galsenapi.vercel.app)                    | ✅ [Visiter](https://lassblog.pythonanywhere.com/)                                                                 | [Visiter](https://parlersoninke.pythonanywhere.com/)| [Visiter](https://devtoolsconnect.vercel.app/)
 | <img src="https://sibylassana.vercel.app/assets/img/GalsenApi.png" alt="GalsenAPI image" width="500"/> | <img src="https://sibylassana.vercel.app/assets/img/monblog.jpg" alt="Mon blog" width="500"/> | <img src="https://sibylassana.vercel.app/assets/img/fran%C3%A7aissoninke.jpg" alt="Devtoolsconnect" width="500"/>| <img src="https://devtoolsconnect.vercel.app/assets/logo2.png" width="500"/>
 
 
