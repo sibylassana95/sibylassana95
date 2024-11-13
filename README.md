@@ -61,5 +61,5 @@
 
 <h1 align="center">My GitHub Stats</h1>
 <p align="center">
-<a href="http://www.github.com/sibylassana95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sibylassana95&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sibylassana95&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
