@@ -61,5 +61,5 @@
 
 <h1 align="center">My GitHub Stats</h1>
 <p align="center">
-<a href="#"><img src="https://streak-stats.demolab.com?user=sibylassana95&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="#"><img src="https://streak-stats.demolab.com?user=sibylassana95&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </p>
