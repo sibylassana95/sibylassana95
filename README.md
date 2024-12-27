@@ -22,8 +22,9 @@
   <a href="https://www.github.com/sibylassana95" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/sibylassana95?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers">
   </a>
-  <a href="https://www.twitter.com/sibyog13" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/sibyog13?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter followers">
+
+  <a href="https://x.com/sibyog13" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/sibyog13?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter followers">
   </a>
 </p>
 
