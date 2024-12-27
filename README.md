@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/sibylassana95/sibylassana95/blob/main/banieres.gif" alt="sibylassana95 banner">
+  <img src="https://github.com/sibylassana95/sibylassana95/blob/main/Bannierre.gif" alt="sibylassana95 banner">
 </p>
 
 <!-- Introduction -->
