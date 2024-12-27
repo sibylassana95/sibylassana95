@@ -7,7 +7,10 @@
 <h1 align="center">Salut 👋, je suis Lassana Siby</h1>
 <h3 align="center">Un développeur passionné du Sénégal</h3>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+![](https://komarev.com/ghpvc/?username=sibylassana95)
 
 <!-- Portfolio and Contact -->
 <p align="center">
