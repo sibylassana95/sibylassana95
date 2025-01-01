@@ -54,10 +54,10 @@
 
 <h1 align="center"> Quelques projets</h1>
 
-| GalsenAPI                                                             | Mon blog                                                                                                          | Francais-Soninke | DevToolsConnect
+| GalsenAPI                                                             | MAIRIE DEMBANCANE                                                                                                          | Francais-Soninke | DevToolsConnect
 | --------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ------------------------------------------------------| ------------------------------------------------------
-| ✅ [Visiter](https://galsenapi.vercel.app)                    | ✅ [Visiter](https://lassblog.pythonanywhere.com/)                                                                 | [Visiter](https://sonitrad.vercel.app/)| [Visiter](https://devtoolsconnect.vercel.app/)
-| <img src="https://sibylassana.vercel.app/assets/img/GalsenApi.png" alt="GalsenAPI image" width="500"/> | <img src="https://sibylassana.vercel.app/assets/img/monblog.jpg" alt="Mon blog" width="500"/> | <img src="https://sibylassana.vercel.app/assets/img/parlersoninke.png" alt="Devtoolsconnect" width="500"/>| <img src="https://devtoolsconnect.vercel.app/assets/logo2.png" width="500"/>
+| ✅ [Visiter](https://galsenapi.vercel.app)                    | ✅ [Visiter](https://dembancane.pythonanywhere.com/admin)                                                                 | [Visiter](https://sonitrad.vercel.app/)| [Visiter](https://devtoolsconnect.vercel.app/)
+| <img src="https://sibylassana.vercel.app/assets/img/GalsenApi.png" alt="GalsenAPI image" width="500"/> | <img src="https://sibylassana.vercel.app/assets/img/webdembancane.png" alt="MAIRIE DEMBANCANE" width="500"/> | <img src="https://sibylassana.vercel.app/assets/img/parlersoninke.png" alt="Devtoolsconnect" width="500"/>| <img src="https://devtoolsconnect.vercel.app/assets/logo2.png" width="500"/>
 
 
 <!-- GitHub Stats -->
