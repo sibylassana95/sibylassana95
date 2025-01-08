@@ -90,6 +90,7 @@
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-Wk8W4Bak_K3ffiY83OOmg)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sibyamara95)
   [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sibylassana)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sibylassana.vercel.app)
 </div>
 <!-- Contributions -->
 <div align="center">
@@ -125,5 +126,4 @@
 <!-- Footer -->
 <div align="center">
   <p>🤝 Ouvert aux collaborations et nouvelles opportunités</p>
-  <p>📍 Portfolio: <a href="https://sibylassana.vercel.app/" target="_blank">sibylassana.vercel.app</a></p>
 </div>
