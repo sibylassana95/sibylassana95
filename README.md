@@ -112,7 +112,7 @@
 <div align="center">
   <h2>📊 Statistiques GitHub</h2>
   
-  <img src="https://streak-stats.demolab.com?user=sibylassana95&theme=tokyonight&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+ 
   
   <img src="https://github-readme-stats.vercel.app/api?username=sibylassana95&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" />
 </div>
