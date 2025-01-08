@@ -111,7 +111,15 @@
 <!-- GitHub Stats -->
 <div align="center">
   <h2>📊 Statistiques GitHub</h2>
+  
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=sibylassana95&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibylassana95&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Top Languages" />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sibylassana95&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <!-- Footer -->
