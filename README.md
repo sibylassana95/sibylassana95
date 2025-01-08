@@ -1,68 +1,124 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/sibylassana95/sibylassana95/blob/main/bannierres.gif" alt="sibylassana95 banner">
-</p>
+<!-- Header -->
+<div align="center">
+  <img src="https://github.com/sibylassana95/sibylassana95/blob/main/bannierres.gif" alt="sibylassana95 banner" width="100%">
+</div>
 
 <!-- Introduction -->
-<h1 align="center">Salut 👋, je suis Lassana Siby</h1>
-<h3 align="center">Un développeur passionné du Sénégal</h3>
+<div align="center">
+  <h1>👋 Bonjour, Je suis Lassana Siby</h1>
+  <h3>Développeur Passionné du Sénégal</h3>
+  
+ [![Email](https://img.shields.io/badge/Email-sibyamara95%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:sibyamara95@gmail.com)
+  [![GitHub followers](https://img.shields.io/github/followers/sibylassana95?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/sibylassana95)
+  ![Profile Views](https://komarev.com/ghpvc/?username=sibylassana95&style=flat-square&color=0891b2)
+</div>
 
-![Snake animation](https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake-dark.svg)
-
-![](https://komarev.com/ghpvc/?username=sibylassana95)
-
-<!-- Portfolio and Contact -->
-<p align="center">
-  You can contact me at <a href="mailto:sibyamara95@gmail.com">sibyamara95@gmail.com</a><br>
-  🤝 I'm open to collaborating
-</p>
-
-<!-- GitHub and Twitter Followers -->
-<p align="center">
-  <a href="https://www.github.com/sibylassana95" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/sibylassana95?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers">
-  </a>
-
-  <a href="https://x.com/sibyog13" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/sibyog13?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter followers">
-  </a>
-</p>
+<!-- GitHub Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!-- Technologies -->
-<h1 align="center">J'utilise ces technologies</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,ts,js,md,css,tailwind,vercel,figma,angular,bootstrap,discord,git,github,gitlab,gmail,html,java,ubuntu,spring," alt="Technologies">
-  </a>
-</p>
-<h3 align="center">Databases</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+<div align="center">
+  <h2>💻 Stack Technique</h2>
+  
+  #### Languages & Frameworks
+  <img src="https://skillicons.dev/icons?i=py,django,ts,js,angular,java,spring" alt="Languages & Frameworks" />
+  
+  #### Frontend & Design
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma" alt="Frontend & Design" />
+  
+  #### Databases
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  </p>
+  
+  #### Outils & Plateformes
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,ubuntu" alt="Tools & Platforms" />
+</div>
 
-
+<!-- Projects Section -->
+<div align="center">
+  <h2>🚀 Projets Phares</h2>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://galsenapi.vercel.app">
+          <img src="https://sibylassana.vercel.app/assets/img/GalsenApi.png" width="250px" alt="GalsenAPI"/><br/>
+          <b>GalsenAPI</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://dembancane.pythonanywhere.com">
+          <img src="https://sibylassana.vercel.app/assets/img/webdembancane.png" width="250px" alt="MAIRIE DEMBANCANE"/><br/>
+          <b>MAIRIE DEMBANCANE</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://sonitrad.vercel.app">
+          <img src="https://sibylassana.vercel.app/assets/img/parlersoninke.png" width="250px" alt="Francais-Soninke"/><br/>
+          <b>Francais-Soninke</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://devtoolsconnect.vercel.app">
+          <img src="https://devtoolsconnect.vercel.app/assets/logo2.png" width="250px" alt="DevToolsConnect"/><br/>
+          <b>DevToolsConnect</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Social Media -->
-<h1 align="center"> Socials</h1>
-<p align="center">
- <a href="https://www.behance.net/sibylassana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://discord.com/users/sibylassana#8272" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/sibylassana95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sibyog13/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/sibylassana95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://instagram.com/siby_global" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sibylassana/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/@sibyamara95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sibyog13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UC-Wk8W4Bak_K3ffiY83OOmg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-</p>
-
-<!-- Projets -->
-
-<h1 align="center"> Quelques projets</h1>
-
-| GalsenAPI                                                             | MAIRIE DEMBANCANE                                                                                                          | Francais-Soninke | DevToolsConnect
-| --------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ------------------------------------------------------| ------------------------------------------------------
-| ✅ [Visiter](https://galsenapi.vercel.app)                    | ✅ [Visiter](https://dembancane.pythonanywhere.com/)                                                                 | [Visiter](https://sonitrad.vercel.app/)| [Visiter](https://devtoolsconnect.vercel.app/)
-| <img src="https://sibylassana.vercel.app/assets/img/GalsenApi.png" alt="GalsenAPI image" width="500"/> | <img src="https://sibylassana.vercel.app/assets/img/webdembancane.png" alt="MAIRIE DEMBANCANE" width="500"/> | <img src="https://sibylassana.vercel.app/assets/img/parlersoninke.png" alt="Devtoolsconnect" width="500"/>| <img src="https://devtoolsconnect.vercel.app/assets/logo2.png" width="500"/>
-
-
+<div align="center">
+  <h2>🌐 Réseaux Sociaux</h2>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sibylassana/)
+  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sibyog13)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sibylassana95)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/siby_global)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-Wk8W4Bak_K3ffiY83OOmg)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sibyamara95)
+  [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sibylassana)
+</div>
+<!-- Contributions -->
+<div align="center">
+  <h2>🤝 Comment contribuer</h2>
+  
+  🔍 Parcourez mes projets
+  🐛 Signalez des bugs
+  💡 Proposez des améliorations
+  🌟 Donnez une étoile aux projets que vous aimez
+</div>
+<!-- Languages -->
+<div align="center">
+  <h2>🌍 Langues</h2>
+  
+  ![Français](https://img.shields.io/badge/Français-Tréès_Bien-blue?style=for-the-badge)
+  ![Anglais](https://img.shields.io/badge/Anglais-Moyen-green?style=for-the-badge)
+  ![Soninké](https://img.shields.io/badge/Soninké-Maternelle-orange?style=for-the-badge)
+</div>
 <!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 Statistiques GitHub</h2>
+  
+  <img src="https://streak-stats.demolab.com?user=sibylassana95&theme=tokyonight&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sibylassana95&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" />
+</div>
 
-<h1 align="center">My GitHub Stats</h1>
-<p align="center">
-<a href="#"><img src="https://streak-stats.demolab.com?user=sibylassana95&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-</p>
+<!-- Footer -->
+<div align="center">
+  <p>🤝 Ouvert aux collaborations et nouvelles opportunités</p>
+  <p>💌 Contact: <a href="mailto:sibyamara95@gmail.com">sibyamara95@gmail.com</a></p>
+</div>
