@@ -111,14 +111,11 @@
 <!-- GitHub Stats -->
 <div align="center">
   <h2>📊 Statistiques GitHub</h2>
-  
- 
-  
   <img src="https://github-readme-stats.vercel.app/api?username=sibylassana95&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" />
 </div>
 
 <!-- Footer -->
 <div align="center">
   <p>🤝 Ouvert aux collaborations et nouvelles opportunités</p>
-  <p>💌 Contact: <a href="mailto:sibyamara95@gmail.com">sibyamara95@gmail.com</a></p>
+  <p>📍 Portfolio: <a href="https://sibylassana.vercel.app/" target="_blank">sibylassana.vercel.app</a></p>
 </div>
