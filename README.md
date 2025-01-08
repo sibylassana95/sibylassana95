@@ -10,6 +10,7 @@
   
  [![Email](https://img.shields.io/badge/Email-sibyamara95%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:sibyamara95@gmail.com)
   [![GitHub followers](https://img.shields.io/github/followers/sibylassana95?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/sibylassana95)
+   [![Portfolio](https://img.shields.io/badge/Portfolio-sibylassana.vercel.app-blue?style=flat-square&logo=vercel)](https://sibylassana.vercel.app/)
   ![Profile Views](https://komarev.com/ghpvc/?username=sibylassana95&style=flat-square&color=0891b2)
 </div>
 
@@ -90,7 +91,7 @@
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-Wk8W4Bak_K3ffiY83OOmg)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sibyamara95)
   [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sibylassana)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sibylassana.vercel.app)
+ 
 </div>
 <!-- Contributions -->
 <div align="center">
