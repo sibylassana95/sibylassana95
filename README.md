@@ -82,6 +82,12 @@
           <b>DevToolsConnect</b>
         </a>
       </td>
+      <td align="center">
+        <a href="https://senpass.vercel.app/">
+          <img src="https://sibylassana.vercel.app/assets/img/senpass.png" width="250px" alt="DevToolsConnect"/><br/>
+          <b>SenPass</b>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
