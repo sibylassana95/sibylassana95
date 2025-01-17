@@ -62,6 +62,12 @@
           <b>MAIRIE DEMBANCANE</b>
         </a>
       </td>
+       <td align="center">
+        <a href="https://sibyshop.pythonanywhere.com/">
+          <img src="https://sibylassana.vercel.app/assets/img/sibyshop.png" width="250px" alt="MAIRIE DEMBANCANE"/><br/>
+          <b>SIBYSHOP</b>
+        </a>
+      </td>
     </tr>
     <tr>
       <td align="center">
