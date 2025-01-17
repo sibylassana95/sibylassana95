@@ -78,7 +78,7 @@
       </td>
       <td align="center">
         <a href="https://devtoolsconnect.vercel.app">
-          <img src="https://devtoolsconnect.vercel.app/assets/logo2.png" width="250px" alt="DevToolsConnect"/><br/>
+          <img src="https://sibylassana.vercel.app/assets/img/devtoolsconnect.png" width="250px" alt="DevToolsConnect"/><br/>
           <b>DevToolsConnect</b>
         </a>
       </td>
