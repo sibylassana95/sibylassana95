@@ -63,7 +63,7 @@
         </a>
       </td>
        <td align="center">
-        <a href="https://sibyshop.pythonanywhere.com/">
+        <a href="https://sibyshop.vercel.app/">
           <img src="https://sibylassana.vercel.app/assets/img/sibyshop.png" width="250px" alt="MAIRIE DEMBANCANE"/><br/>
           <b>SIBYSHOP</b>
         </a>
