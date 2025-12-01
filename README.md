@@ -51,8 +51,8 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://galsenapi.vercel.app">
-          <img src="https://sibylassana.vercel.app/assets/img/GalsenApi.png" width="250px" alt="GalsenAPI"/><br/>
+        <a href="https://galsenapi.lassanasiby.com/>
+          <img src="https://galsenapi.lassanasiby.com/assets/img/GalsenApi.png" width="250px" alt="GalsenAPI"/><br/>
           <b>GalsenAPI</b>
         </a>
       </td>
