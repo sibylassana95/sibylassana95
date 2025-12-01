@@ -64,7 +64,7 @@
       </td>
        <td align="center">
         <a href="https://sibyshop.vercel.app/">
-          <img src="https://https://lassanasiby.com/assets/img/sibyshop.png" width="250px" alt="MAIRIE DEMBANCANE"/><br/>
+          <img src="https://lassanasiby.com/assets/img/sibyshop.png" width="250px" alt="SIBYSHOP"/><br/>
           <b>SIBYSHOP</b>
         </a>
       </td>
