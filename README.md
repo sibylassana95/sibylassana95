@@ -52,19 +52,19 @@
     <tr>
       <td align="center">
         <a href="https://galsenapi.lassanasiby.com/>
-          <img src="https://galsenapi.lassanasiby.com/assets/img/GalsenApi.png" width="250px" alt="GalsenAPI"/><br/>
+          <img src="https://lassanasiby.com/assets/img/GalsenApi.png" width="250px" alt="GalsenAPI"/><br/>
           <b>GalsenAPI</b>
         </a>
       </td>
       <td align="center">
         <a href="https://dembancane.pythonanywhere.com">
-          <img src="https://sibylassana.vercel.app/assets/img/webdembancane.png" width="250px" alt="MAIRIE DEMBANCANE"/><br/>
+          <img src="https://lassanasiby.com/assets/img/webdembancane.png" width="250px" alt="MAIRIE DEMBANCANE"/><br/>
           <b>MAIRIE DEMBANCANE</b>
         </a>
       </td>
        <td align="center">
         <a href="https://sibyshop.vercel.app/">
-          <img src="https://sibylassana.vercel.app/assets/img/sibyshop.png" width="250px" alt="MAIRIE DEMBANCANE"/><br/>
+          <img src="https://https://lassanasiby.com/assets/assets/img/sibyshop.png" width="250px" alt="MAIRIE DEMBANCANE"/><br/>
           <b>SIBYSHOP</b>
         </a>
       </td>
@@ -72,19 +72,19 @@
     <tr>
       <td align="center">
         <a href="https://sonitrad.vercel.app">
-          <img src="https://sibylassana.vercel.app/assets/img/parlersoninke.png" width="250px" alt="Francais-Soninke"/><br/>
+          <img src="https://lassanasiby.com/assets/assets/img/parlersoninke.png" width="250px" alt="Francais-Soninke"/><br/>
           <b>Francais-Soninke</b>
         </a>
       </td>
       <td align="center">
         <a href="https://devtoolsconnect.vercel.app">
-          <img src="https://sibylassana.vercel.app/assets/img/devtoolsconnect.png" width="250px" alt="DevToolsConnect"/><br/>
+          <img src="https://lassanasiby.com/assets/assets/img/devtoolsconnect.png" width="250px" alt="DevToolsConnect"/><br/>
           <b>DevToolsConnect</b>
         </a>
       </td>
       <td align="center">
         <a href="https://senpass.vercel.app/">
-          <img src="https://sibylassana.vercel.app/assets/img/senpass.png" width="250px" alt="DevToolsConnect"/><br/>
+          <img src="https://lassanasiby.com/assets/assets/img/senpass.png" width="250px" alt="DevToolsConnect"/><br/>
           <b>SenPass</b>
         </a>
       </td>
