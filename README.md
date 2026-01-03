@@ -63,9 +63,9 @@
         </a>
       </td>
        <td align="center">
-        <a href="https://sibyshop.vercel.app/">
-          <img src="https://lassanasiby.com/assets/img/sibyshop.png" width="250px" alt="SIBYSHOP"/><br/>
-          <b>SIBYSHOP</b>
+        <a href="https://blog.lassanasiby.com">
+          <img src="https://lassanasiby.com/assets/img/blog-lassanasiby.png" width="250px" alt="SIBYSHOP"/><br/>
+          <b>MONBLOG</b>
         </a>
       </td>
     </tr>
@@ -85,7 +85,7 @@
       <td align="center">
         <a href="https://agrolink.lassanasiby.com/">
           <img src="https://lassanasiby.com/assets/img/agrolink.png" width="250px" alt="DevToolsConnect"/><br/>
-          <b>Agrolink</b>
+          <b>AGROLINK</b>
         </a>
       </td>
     </tr>
