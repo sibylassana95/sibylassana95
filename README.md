@@ -51,29 +51,41 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://galsenapi.vercel.app">
-          <img src="https://sibylassana.vercel.app/assets/img/GalsenApi.png" width="250px" alt="GalsenAPI"/><br/>
+        <a href="https://galsenapi.lassanasiby.com"/>
+          <img src="https://lassanasiby.com/assets/img/GalsenApi.png" width="250px" alt="GalsenAPI"/><br/>
           <b>GalsenAPI</b>
         </a>
       </td>
       <td align="center">
         <a href="https://dembancane.pythonanywhere.com">
-          <img src="https://sibylassana.vercel.app/assets/img/webdembancane.png" width="250px" alt="MAIRIE DEMBANCANE"/><br/>
+          <img src="https://lassanasiby.com/assets/img/webdembancane.png" width="250px" alt="MAIRIE DEMBANCANE"/><br/>
           <b>MAIRIE DEMBANCANE</b>
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://sibyshop.vercel.app/">
+          <img src="https://lassanasiby.com/assets/img/sibyshop.png" width="250px" alt="SIBYSHOP"/><br/>
+          <b>SIBYSHOP</b>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://sonitrad.vercel.app">
-          <img src="https://sibylassana.vercel.app/assets/img/parlersoninke.png" width="250px" alt="Francais-Soninke"/><br/>
+          <img src="https://lassanasiby.com/assets/img/parlersoninke.png" width="250px" alt="Francais-Soninke"/><br/>
           <b>Francais-Soninke</b>
         </a>
       </td>
       <td align="center">
         <a href="https://devtoolsconnect.vercel.app">
-          <img src="https://devtoolsconnect.vercel.app/assets/logo2.png" width="250px" alt="DevToolsConnect"/><br/>
+          <img src="https://lassanasiby.com/assets/img/devtoolsconnect.png" width="250px" alt="DevToolsConnect"/><br/>
           <b>DevToolsConnect</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://senpass.vercel.app/">
+          <img src="https://lassanasiby.com/assets/img/senpass.png" width="250px" alt="DevToolsConnect"/><br/>
+          <b>SenPass</b>
         </a>
       </td>
     </tr>
