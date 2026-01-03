@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://github.com/sibylassana95/sibylassana95/blob/main/bannierres.gif" alt="sibylassana95 banner" width="100%">
+  <img src="https://github.com/sibylassana95/sibylassana95/blob/main/bannierre.gif" alt="sibylassana95 banner" width="100%">
 </div>
 
 <!-- Introduction -->
